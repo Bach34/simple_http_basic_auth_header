@@ -1,6 +1,6 @@
 [project]
 name = "simple-http-basic-auth-header"
-version = "0.1.0"
+version = "0.1.1"
 description = "Reads and writes Basic auth HTTP headers, with charset and base64 handling."
 requires-python = ">=3.10"
 dependencies = []
